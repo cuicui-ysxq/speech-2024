@@ -1,4 +1,4 @@
-[submodule "speech-2024-1"]
+[submodule "parts/speech-2024-1"]
 	path = parts/speech-2024-1
 	url = git@github.com:cuicui-ysxq/speech-2024-1.git
 [submodule "parts/speech-2024-2"]
